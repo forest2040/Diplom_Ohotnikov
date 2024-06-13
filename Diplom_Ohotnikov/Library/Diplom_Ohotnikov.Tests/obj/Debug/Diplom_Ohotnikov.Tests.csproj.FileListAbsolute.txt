@@ -1,0 +1,17 @@
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Library\Diplom_Ohotnikov.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Library\Diplom_Ohotnikov.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Library\Diplom_Ohotnikov.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Library\Diplom_Ohotnikov.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Library\Diplom_Ohotnikov.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Library\Diplom_Ohotnikov.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Library\Diplom_Ohotnikov.Tests\bin\Debug\Diplom_Ohotnikov.Tests.dll
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Library\Diplom_Ohotnikov.Tests\bin\Debug\Diplom_Ohotnikov.Tests.pdb
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Library\Diplom_Ohotnikov.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Library\Diplom_Ohotnikov.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Library\Diplom_Ohotnikov.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Library\Diplom_Ohotnikov.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Library\Diplom_Ohotnikov.Tests\obj\Debug\Diplom_Ohotnikov.Tests.csproj.AssemblyReference.cache
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Library\Diplom_Ohotnikov.Tests\obj\Debug\Diplom_Ohotnikov.Tests.csproj.CoreCompileInputs.cache
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Library\Diplom_Ohotnikov.Tests\obj\Debug\Diplom_Ohotnikov.Tests.csproj.CopyComplete
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Library\Diplom_Ohotnikov.Tests\obj\Debug\Diplom_Ohotnikov.Tests.dll
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Library\Diplom_Ohotnikov.Tests\obj\Debug\Diplom_Ohotnikov.Tests.pdb

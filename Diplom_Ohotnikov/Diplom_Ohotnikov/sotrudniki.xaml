@@ -1,0 +1,74 @@
+﻿<Window x:Class="Diplom_Ohotnikov.sotrudniki"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Diplom_Ohotnikov"
+        mc:Ignorable="d"
+        ResizeMode="NoResize"
+        Icon = "logo2.ico"
+        Title="База данных 'Сотрудники'" Height="511.819" Width="980.479">
+    <Grid Margin="0,0,4.333,-0.333" Height="479" VerticalAlignment="Top">
+        <Label Content="База данных 'Сотрудники'" HorizontalAlignment="Left" Margin="328,10,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
+        <DataGrid x:Name="dataGridView1" HorizontalAlignment="Left" Height="143" Margin="32,81,0,0" VerticalAlignment="Top" Width="917"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="23" Margin="162,273,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox2" HorizontalAlignment="Left" Height="23" Margin="162,308,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox3" HorizontalAlignment="Left" Height="22" Margin="162,345,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Фамилия" HorizontalAlignment="Left" Margin="35,268,0,0" VerticalAlignment="Top" Width="113" FontSize="16"/>
+        <Label Content="Имя" HorizontalAlignment="Left" Margin="35,303,0,0" VerticalAlignment="Top" Width="113" FontSize="16"/>
+        <Label Content="Отчество" HorizontalAlignment="Left" Margin="35,336,0,0" VerticalAlignment="Top" Width="122" FontSize="16"/>
+        <TextBox x:Name="textBox4" HorizontalAlignment="Left" Height="23" Margin="426,268,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="День рождения" HorizontalAlignment="Left" Margin="286,263,0,0" VerticalAlignment="Top" Width="134" FontSize="16"/>
+        <Label Content="Должность" HorizontalAlignment="Left" Margin="286,296,0,0" VerticalAlignment="Top" Width="125" FontSize="16"/>
+        <Button x:Name="button2" Content="Добавить" HorizontalAlignment="Left" Margin="618,371,0,0" VerticalAlignment="Top" Width="146" Height="31" FontSize="18" Background="Red"  Foreground="White" FontWeight="Bold" Click="button2_Click"/>
+        <TextBox x:Name="textBox14" HorizontalAlignment="Left" Height="23" Margin="162,413,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Код сотрудника" HorizontalAlignment="Left" Margin="28,408,0,0" VerticalAlignment="Top" Width="133" FontSize="16" FontWeight="Bold"/>
+        <Button x:Name="button6" Content="Вывод в Excel" HorizontalAlignment="Left" Margin="12,228,0,0" VerticalAlignment="Top" Width="146" Height="31" FontSize="18" Background="Red"  Foreground="White" FontWeight="Bold" Click="button6_Click"/>
+        <Button x:Name="button1" Content="Выйти" HorizontalAlignment="Left" Margin="618,441,0,0" VerticalAlignment="Top" Width="146" Height="31" FontSize="18" Background="Red"  Foreground="White" FontWeight="Bold" Click="button1_Click"/>
+        <Button x:Name="button3" Content="Изменить" HorizontalAlignment="Left" Margin="298,407,0,0" VerticalAlignment="Top" Width="146" Height="31" FontSize="18" Background="Red"  Foreground="White" FontWeight="Bold" Click="button3_Click"/>
+        <Button x:Name="button4" Content="Удалить" HorizontalAlignment="Left" Margin="455,407,0,0" VerticalAlignment="Top" Width="146" Height="31" FontSize="18" Background="Red"  Foreground="White" FontWeight="Bold" Click="button4_Click"/>
+        <TextBox x:Name="textBox6" HorizontalAlignment="Left" Height="23" Margin="426,341,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox7" HorizontalAlignment="Left" Height="22" Margin="426,378,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Специализация" HorizontalAlignment="Left" Margin="287,336,0,0" VerticalAlignment="Top" Width="133" FontSize="16"/>
+        <Label Content="Квалификация" HorizontalAlignment="Left" Margin="286,369,0,0" VerticalAlignment="Top" Width="135" FontSize="16"/>
+        <TextBox x:Name="textBox8" HorizontalAlignment="Left" Height="23" Margin="655,268,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="115"/>
+        <TextBox x:Name="textBox9" HorizontalAlignment="Left" Height="22" Margin="655,305,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="115"/>
+        <Label Content="Почта" HorizontalAlignment="Left" Margin="544,263,0,0" VerticalAlignment="Top" Width="104" FontSize="16"/>
+        <Label Content="Телефон" HorizontalAlignment="Left" Margin="544,296,0,0" VerticalAlignment="Top" Width="104" FontSize="16"/>
+        <TextBox x:Name="textBox10" HorizontalAlignment="Left" Height="23" Margin="655,341,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="115"/>
+        <Label Content="Адрес" HorizontalAlignment="Left" Margin="545,336,0,0" VerticalAlignment="Top" Width="103" FontSize="16"/>
+        <TextBox x:Name="textBox11" HorizontalAlignment="Left" Height="23" Margin="860,235,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="100"/>
+        <TextBox x:Name="textBox12" HorizontalAlignment="Left" Height="22" Margin="860,272,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="100"/>
+        <Label Content="Логин" HorizontalAlignment="Left" Margin="769,230,0,0" VerticalAlignment="Top" Width="86" FontSize="16"/>
+        <Label Content="Пароль" HorizontalAlignment="Left" Margin="769,263,0,0" VerticalAlignment="Top" Width="86" FontSize="16"/>
+        <Label Content="Код центра" HorizontalAlignment="Left" Margin="770,297,0,0" VerticalAlignment="Top" Width="102" FontSize="16"/>
+        <Button x:Name="button5" Content="БД 'Статус'" HorizontalAlignment="Left" Margin="618,408,0,0" VerticalAlignment="Top" Width="146" Height="31" FontSize="18" Background="Red"  Foreground="White" FontWeight="Bold" Click="button5_Click"/>
+        <ComboBox x:Name="comboBox1" HorizontalAlignment="Left" Margin="861,305,0,0" VerticalAlignment="Top" Width="98">
+            <ComboBoxItem Content="1" HorizontalAlignment="Left" Width="95.3333333333333"/>
+            <ComboBoxItem Content="3" HorizontalAlignment="Left" Width="95.3333333333333"/>
+            <ComboBoxItem Content="7" HorizontalAlignment="Left" Width="95.3333333333333"/>
+            <ComboBoxItem Content="8" HorizontalAlignment="Left" Width="95.3333333333333"/>
+            <ComboBoxItem Content="9" HorizontalAlignment="Left" Width="95.3333333333333"/>
+        </ComboBox>
+        <Button x:Name="button7" Content="Перезагрузка" HorizontalAlignment="Left" Margin="455,440,0,0" VerticalAlignment="Top" Width="146" Height="31" FontSize="18" Background="Red"  Foreground="White" FontWeight="Bold" Click="button7_Click"/>
+        <Button x:Name="button8" Content="Поиск" HorizontalAlignment="Left" Margin="523,230,0,0" VerticalAlignment="Top" Width="96" Height="31" FontSize="18" Background="Red"  Foreground="White" FontWeight="Bold" Click="button8_Click"/>
+        <Label Content="Поиск по фамилии" HorizontalAlignment="Left" Margin="180,227,0,0" VerticalAlignment="Top" Width="187" FontSize="18" FontWeight="Bold"/>
+        <TextBox x:Name="textBox15" HorizontalAlignment="Left" Height="23" Margin="372,235,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="button9" Content="Очистить" HorizontalAlignment="Left" Margin="632,230,0,0" VerticalAlignment="Top" Width="96" Height="31" FontSize="18" Background="Red"  Foreground="White" FontWeight="Bold" Click="button9_Click"/>
+        <Label Content="Код пола" HorizontalAlignment="Left" Margin="771,329,0,0" VerticalAlignment="Top" Width="84" FontSize="16"/>
+        <ComboBox x:Name="comboBox2" HorizontalAlignment="Left" Margin="861,333,0,0" VerticalAlignment="Top" Width="99">
+            <ComboBoxItem Content="1" HorizontalAlignment="Left" Width="95.3333333333333"/>
+            <ComboBoxItem Content="2" HorizontalAlignment="Left" Width="95.3333333333333"/>
+        </ComboBox>
+        <ComboBox x:Name="comboBox3" HorizontalAlignment="Left" Margin="426,303,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem Content="Директор" HorizontalAlignment="Left" Width="95.3333333333333"/>
+            <ComboBoxItem Content="Администратор" HorizontalAlignment="Left" Width="95.3333333333333"/>
+            <ComboBoxItem Content="Врач" HorizontalAlignment="Left" Width="95.3333333333333"/>
+        </ComboBox>
+        <Label Content="1 - мужской; 2 - женский" HorizontalAlignment="Left" Margin="792,348,-34,0" VerticalAlignment="Top" Width="212" FontSize="12" FontWeight="Bold"/>
+        <Button x:Name="button10" Content="↑" HorizontalAlignment="Left" Margin="816,412,0,0" VerticalAlignment="Top" Width="47" Height="31" FontSize="24" Background="Red"  Foreground="White" FontWeight="Bold" Click="button10_Click"/>
+        <Label Content="Сортировка по дню рождения" HorizontalAlignment="Left" Margin="761,386,0,0" VerticalAlignment="Top" Width="208" FontSize="13" FontWeight="Bold"/>
+        <Button x:Name="button11" Content="↓" HorizontalAlignment="Left" Margin="887,412,0,0" VerticalAlignment="Top" Width="47" Height="31" FontSize="24" Background="Red"  Foreground="White" FontWeight="Bold" Click="button11_Click"/>
+        <Image Margin="3,2,851.999,401.666" Source="logo.png" Stretch="Fill"/>
+    </Grid>
+</Window>

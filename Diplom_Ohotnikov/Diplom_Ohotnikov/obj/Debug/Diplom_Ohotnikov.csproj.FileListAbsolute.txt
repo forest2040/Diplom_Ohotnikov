@@ -1,0 +1,100 @@
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\Diplom_Ohotnikov.csproj.AssemblyReference.cache
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\glavnaya_administrator.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\glavnaya_director.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\glavnaya_vrach.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\MainWindow.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\App.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\Diplom_Ohotnikov_MarkupCompile.cache
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\Diplom_Ohotnikov_MarkupCompile.lref
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\bin\Debug\Diplom_Ohotnikov.exe.config
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\bin\Debug\Diplom_Ohotnikov.exe
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\bin\Debug\Diplom_Ohotnikov.pdb
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\glavnaya_administrator.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\glavnaya_director.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\glavnaya_vrach.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\MainWindow.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\Diplom_Ohotnikov.g.resources
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\Diplom_Ohotnikov.Properties.Resources.resources
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\Diplom_Ohotnikov.csproj.GenerateResource.cache
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\Diplom_Ohotnikov.csproj.CoreCompileInputs.cache
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\Diplom_Ohotnikov.exe
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\Diplom_Ohotnikov.pdb
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\medcenter.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\medcenter.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\Diplom_Ohotnikov.csproj.ResolveComReference.cache
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\uslugi.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\uslugi.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\klient.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\klient.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\sotrudniki.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\status.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\sotrudniki.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\status.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\okazannye_uslugi.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\okazannye_uslugi.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\priem.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\priem.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\adm_klient.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\adm_priem.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\adm_uslugi.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\adm_klient.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\adm_priem.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\adm_uslugi.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\vr_okazannye_uslugi.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\vr_priem.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\vr_uslugi.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\vr_okazannye_uslugi.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\vr_priem.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\vr_uslugi.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\vr_klient.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\vr_klient.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\bin\Debug\Diplom_Ohotnikov.exe.config
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\bin\Debug\Diplom_Ohotnikov.exe
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\bin\Debug\Diplom_Ohotnikov.pdb
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\Diplom_Ohotnikov.csproj.AssemblyReference.cache
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\Diplom_Ohotnikov.csproj.ResolveComReference.cache
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\adm_klient.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\adm_priem.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\adm_uslugi.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\glavnaya_administrator.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\glavnaya_director.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\glavnaya_vrach.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\klient.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\MainWindow.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\medcenter.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\okazannye_uslugi.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\priem.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\sotrudniki.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\status.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\uslugi.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\vr_klient.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\vr_okazannye_uslugi.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\vr_priem.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\vr_uslugi.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\App.g.cs
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\Diplom_Ohotnikov_MarkupCompile.cache
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\Diplom_Ohotnikov_MarkupCompile.lref
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\adm_klient.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\adm_priem.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\adm_uslugi.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\glavnaya_administrator.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\glavnaya_director.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\glavnaya_vrach.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\klient.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\MainWindow.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\medcenter.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\okazannye_uslugi.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\priem.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\sotrudniki.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\status.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\uslugi.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\vr_klient.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\vr_okazannye_uslugi.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\vr_priem.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\vr_uslugi.baml
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\Diplom_Ohotnikov.g.resources
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\Diplom_Ohotnikov.Properties.Resources.resources
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\Diplom_Ohotnikov.csproj.GenerateResource.cache
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\Diplom_Ohotnikov.csproj.CoreCompileInputs.cache
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\Diplom_Ohotnikov.exe
+F:\Личные данные не системные\документы, заметки\доки\учёба\Диплом\Диплом Охотников\Весь диплом\Diplom_Ohotnikov\Diplom_Ohotnikov\obj\Debug\Diplom_Ohotnikov.pdb
